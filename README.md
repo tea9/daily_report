@@ -20,13 +20,7 @@
 
 [visit it](https://github.com/tea9/daily_report/blob/master/test.md)  
 
----
-layout: post
-title: 2018-09-28-日记
-date: 2018-09-28
-category: 日记
-tags: 日记
----
+
 # 2018-09-28-日记
 ## BIU BIU BIU
 - [ ] 灵光一动的事
