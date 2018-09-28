@@ -18,6 +18,8 @@
 
 ## 例子
 
+[visit it](https://github.com/tea9/daily_report/blob/master/test.md)  
+
 ---
 layout: post
 title: 2018-09-28-日记
