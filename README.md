@@ -1,11 +1,49 @@
-这是我每天的清单，记录一下，以防以后老了记不住事情。  
+## 前言
+这是我的每日的待办清单，记录以及督促自己。  
 
-如果你想使用这个的话。  
-只需要clone rakefile.rb 文件 
-前提需要有ruby的环境   
+如果你也想使用。    
 
-使用命令是  
+只需要[rakefile.rb](https://github.com/tea9/daily_report/blob/master/rakefile.rb)文件   
 
-	rake post title=""
+前提你需要ruby环境  
 
-然后会自动添加今天的日期  
+## rakefile.rb
+
+这个文件实际上只做了一件事，生成带有时间前缀的文件，文件内容带有固定格式。  
+如果你可以，也可以用别的语言实现。  
+
+## 命令
+
+	rake post title="daily"
+
+## 例子
+
+---
+layout: post
+title: 2018-09-28-日记
+date: 2018-09-28
+category: 日记
+tags: 日记
+---
+# 2018-09-28-日记
+## BIU BIU BIU
+- [ ] 灵光一动的事
+ 
+## TODO LIST
+- [x] 待办1
+- [ ] 待办2
+- [ ] 待办3
+- [ ] 待办4
+ 
+ 
+## SOUL
+- [ ] 学习计划
+ 
+## BODY
+- [ ] 运动计划
+ 
+## HA HA HA
+- [ ] 娱乐的事
+ 
+## SUMMARY
+今日总结 
