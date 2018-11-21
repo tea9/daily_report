@@ -47,10 +47,10 @@ task :post do
     # post.puts "+ "
     post.puts " "
     post.puts "\#\# SOUL"
-    post.puts "- [ ] "
+    post.puts "- "
     post.puts " "
     post.puts "\#\# BODY"
-    post.puts "- [ ] "
+    post.puts "- "
     post.puts " "
     post.puts "\#\# HA HA HA"
     post.puts "- "
@@ -58,7 +58,5 @@ task :post do
     post.puts "\#\# SUMMARY"
     post.puts " "
     post.puts " "
-  end
-
-  
+  end 
 end # task :post
