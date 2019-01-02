@@ -11,3 +11,4 @@
 - [ ] 整理adb shell 笔记、文章
 - [ ] Android进阶之光 多线程笔记
 - [ ] 监听list改变
+- [ ] shape笔记
