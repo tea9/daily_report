@@ -12,3 +12,6 @@
 - [ ] Android进阶之光 多线程笔记
 - [ ] 监听list改变
 - [ ] shape笔记
+- [ ] nfc文章
+- [ ] arduino笔记
+- [ ] termux笔记
