@@ -19,19 +19,20 @@ testa  testb 不同发布
 - root
 - 服务进程保活
 - android调用python
-- android蓝牙开发
-- android音视频开发
-- 蓝牙劫持
-- xposed
+- android蓝牙开发 #################
+- android音视频开发 #################
+- 蓝牙劫持 #################
+- xposed #################
 - anr
-- appium
+- appium #################
+- android多线程 #################
 
 ## ANDROID开发
 
 [Android——实现无障碍](https://blog.csdn.net/heyc861221/article/details/51939486)  
 [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)  
 [Android应用识别支付宝收款二维码直接跳转支付宝转账界面](https://blog.csdn.net/wang_k516/article/details/82419606)  
-[Android NFC开发详细总结](https://blog.csdn.net/zhwadezh/article/details/79111348)  
+[Android NFC开发详细总结](https://blog.csdn.net/zhwadezh/article/details/79111348)#################  
 [Android 悬浮窗的贴边移动及属性动画](https://blog.csdn.net/yang786654260/article/details/70841240?utm_source=blogkpcl6)  
 [Android悬浮窗用法总结](https://www.jianshu.com/p/881403db1314)  
 [Android-FloatWindow](https://github.com/duqian291902259/Android-FloatWindow)  
@@ -47,6 +48,7 @@ testa  testb 不同发布
 
 ## ANDROID逆向
 - 动态调试
+- smali #################
 
 [用 Smali 手写一个可运行的 HelloWorld！！！](https://www.cnblogs.com/plokmju/p/7742759.html)  
 [逆向之Smali入门学习](https://www.jianshu.com/p/40908a016480)  
