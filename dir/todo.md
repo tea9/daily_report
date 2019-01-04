@@ -16,3 +16,7 @@
 - [ ] arduino笔记
 - [ ] termux笔记
 - [ ] 游戏蜂窝、按键精灵 不root的原理
+
+## OTHER
+- [ ] 搭建内网bug监控
+- [ ] 更新blog

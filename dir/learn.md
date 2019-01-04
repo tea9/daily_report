@@ -72,6 +72,7 @@ testa  testb 不同发布
 
 ## 二进制
 [认识二进制安全与漏洞攻防技术（Windows平台）](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649924271&idx=1&sn=db04ca8b1f669806b09f664caec3933e&chksm=8ed44f6eb9a3c67858c13e50fd5095aa1335beb6de60ce8237c1aeabab42e61a161fe1667da1&mpshare=1&scene=23&srcid=1217ss6JVVzAtrASu20WihWt)  
+[pwn大佬博客](http://blog.ret2.io/2018/06/13/pwn2own-2018-vulnerability-discovery/)
 
 ## TERMUX
 
@@ -94,6 +95,11 @@ testa  testb 不同发布
 [开源硬件智能小车学习教程](https://www.bilibili.com/video/av13906282?share_medium=android&share_source=qq&bbid=3737E544-A83C-4DF5-AE9E-21733718ABDF20578infoc&ts=1543035516489)  
 [漫谈Arduino内置的通讯协议](http://arduino.nxez.com/2017/12/20/talk-about-arduinos-built-in-communication-protocol.html)  
 [用 Arduino 自制 GoPro 无线控制器](http://www.imspender.com/articles/yong-arduino-zi-zhi-gopro-wu-x)  
+
+## OTHERS
+
+[网易md开源库](https://md.zhystar.com/)  
+
 
 ## BOOKS
 
