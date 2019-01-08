@@ -29,6 +29,8 @@ testa  testb 不同发布
 
 ## ANDROID开发
 
+[Android 知识梳理目录 - 好吧，这是一个很"干"的标题****](https://www.jianshu.com/p/fd82d18994ce)  
+
 [Android——实现无障碍](https://blog.csdn.net/heyc861221/article/details/51939486)  
 [让你明明白白的使用RecyclerView——SnapHelper详解](https://www.jianshu.com/p/e54db232df62)  
 [Android应用识别支付宝收款二维码直接跳转支付宝转账界面](https://blog.csdn.net/wang_k516/article/details/82419606)  
