@@ -59,6 +59,15 @@ testa  testb 不同发布
 [Android逆向破解之Mointor查看目标日志](https://blog.csdn.net/u010369338/article/details/52561898)  
 [Android逆向分析笔记](https://www.jianshu.com/p/900e0d93420e)
 
+## Xposed hook
+
+[Android逆向之旅---破解某支付软件防Xposed的hook功能检测机制过程分析](https://blog.csdn.net/jiangwei0910410003/article/details/80037971)  
+[xposed检测原理分析 -案例某付宝、某音](https://blog.csdn.net/ly_xiamu/article/details/81940896)  
+[关于如何使用xposed来hook某支付软件](https://blog.csdn.net/ryan168/article/details/82462821)  
+[Xposed 模块免重启开发(借助VirtualXposed)](https://www.jianshu.com/p/938e8c4c00df)  
+[【Xposed模块开发入门】真·第一课](https://www.52pojie.cn/thread-688466-1-1.html)  
+[Android Hook框架Xposed详解：从源代码分析到开发指南](https://blog.csdn.net/zhangmiaoping23/article/details/53365780)  
+[VirtualXposed](https://blog.csdn.net/zhangmiaoping23/article/details/80432276)  
 
 ---
 
