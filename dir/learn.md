@@ -85,7 +85,7 @@ testa  testb 不同发布
 
 ## 二进制
 [认识二进制安全与漏洞攻防技术（Windows平台）](https://mp.weixin.qq.com/s?__biz=MzIwMzI1MDg2Mg==&mid=2649924271&idx=1&sn=db04ca8b1f669806b09f664caec3933e&chksm=8ed44f6eb9a3c67858c13e50fd5095aa1335beb6de60ce8237c1aeabab42e61a161fe1667da1&mpshare=1&scene=23&srcid=1217ss6JVVzAtrASu20WihWt)  
-[pwn大佬博客](http://blog.ret2.io/2018/06/13/pwn2own-2018-vulnerability-discovery/)
+[pwn大佬博客樱花发的](http://blog.ret2.io/2018/06/13/pwn2own-2018-vulnerability-discovery/)
 
 ## TERMUX
 
@@ -98,6 +98,8 @@ testa  testb 不同发布
 
 ## FUZZ
 - wadi
+
+[fuzzingbook樱花发的](https://www.fuzzingbook.org/)
 
 
 ## 硬件
