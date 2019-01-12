@@ -115,6 +115,9 @@ testa  testb 不同发布
 
 [网易md开源库](https://md.zhystar.com/)  
 
+## ENGLISH
+
+[An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers)
 
 ## BOOKS
 
