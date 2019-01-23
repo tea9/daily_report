@@ -10,6 +10,7 @@ testa  testb 不同发布
 大鸡排的博客归档
 有关于android物联网的知识 & shell
 [DevNote](https://github.com/BolexLiu/DevNote)  
+[信息安全知识库](http://vipread.com/index)  
 
 
 ## ANDROID知识点
@@ -73,6 +74,48 @@ testa  testb 不同发布
 
 ## TEST
 [testhome社区](https://testerhome.com)  
+
+## 安全媒体
+
+	我帮大家整理了一些好的安全媒体的资料，放在视频下面，供大家参考：
+	国内的主要有：Freebuf(freebug.com)、安全客(https://www.anquanke.com/)、安全牛(http://www.aqniu.com/)、安全盒子（http://www.secbox.cn/）、指尖安全(https://secfree.com/)、安全脉搏（https://www.secpluse.com/）、破壳学院 (pockr.org)
+
+
+
+	国外的主要有：
+
+	https://thehackernews.com/、http://www.ehackingnews.com/、https://www.hackread.com/、https://www.securityweek.com/等
+
+	对于资讯类的，这里推荐http://hackernews.cc/，这个平台主要是聚合了各方的安全资讯
+
+
+
+	另外，偏技术类的比如：
+
+	91ri(http://www.91ri.org/)、secwiki（https://www.sec-wiki.com/）、Seebug Paper（https://paper.seebug.org/）、乌云drop（网上可以找到镜像网站）、破壳开壳(pockr.org)
+
+
+
+	还有一些专业性的比如漏洞平台：
+
+	www.seebug.org、https://www.exploit-db.com/、http://seclists.org/、http://0day5.com/、https://packetstormsecurity.com/
+
+	http://cve.scap.org.cn/、http://butian.360.cn/等
+
+	技术社区：
+	https://pockr.org/
+
+	https://xz.aliyun.com/
+
+	https://bbs.ichunqiu.com/
+
+
+
+	二进制方向的同学还可以关注：
+
+	https://www.52pojie.cn/
+
+	https://bbs.pediy.com/
 
 ## WEB安全
 - APT 攻防
