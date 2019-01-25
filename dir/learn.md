@@ -12,6 +12,11 @@ testa  testb 不同发布
 [DevNote](https://github.com/BolexLiu/DevNote)  
 [信息安全知识库](http://vipread.com/index)  
 
+## 学习方法
+
+[安全研究者的自我修养](https://zhuanlan.kanxue.com/article-7640.htm)  
+[安全研究者的自我修养（续）](https://zhuanlan.kanxue.com/article-7641.htm)  
+
 
 ## ANDROID知识点
 
