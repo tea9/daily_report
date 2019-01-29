@@ -32,6 +32,7 @@ testa  testb 不同发布
 - anr
 - appium #################
 - android多线程 #################
+- workmanager
 
 ## ANDROID开发
 
@@ -57,6 +58,11 @@ testa  testb 不同发布
 ## ANDROID逆向
 - 动态调试
 - smali #################
+- 软件防抓包
+- Nethunter 移动渗透测试平台
+- AXMLEditor xml二进制分析
+- odex
+- 远控安卓手机
 
 [用 Smali 手写一个可运行的 HelloWorld！！！](https://www.cnblogs.com/plokmju/p/7742759.html)  
 [逆向之Smali入门学习](https://www.jianshu.com/p/40908a016480)  
