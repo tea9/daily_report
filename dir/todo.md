@@ -5,6 +5,10 @@
 
 ## android
 
+- [ ] 远控安卓 想想看
+
+
+- [ ] 实力六边形
 - [ ] android_lib文章补充 #########
 - [ ] eventbus文章/研究/笔记 #########
 - [ ] 定时器
@@ -12,7 +16,9 @@
 - [ ] 限制应用唤醒 杀死应用
 - [ ] android_touch项目整理 #########
 
-- [ ] pd tools 文章 ##########
+- [ ] android 自定义view https://blog.csdn.net/harvic880925/article/details/50995268
+- [ ] drawable 笔记 android drawble https://blog.csdn.net/feather_wch/article/details/79124608
+- [ ] pd tools 安装 文章 ##########
 - [ ] 悬浮窗文章 ##########
 - [ ] 定时器文章 ##########
 - [ ] 分类文章 ##########
@@ -28,6 +34,7 @@
 
 
 ## OTHER
+- [ ] blog换主题 发现了一个超可爱的主题 https://github.com/xukimseven/HardCandy-Jekyll 有时间换上试试看
 - [ ] 搭建内网bug监控
 - [ ] 更新blog
 - [ ] 网易md库
