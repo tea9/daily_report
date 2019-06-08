@@ -35,6 +35,8 @@ task :daily do
     post.puts "\# #{Time.now.strftime('%Y-%m-%d')}-日记"
     #post.puts "打对勾option+v "
     post.puts "\#\# 打卡 打卡 打卡 月计划 月计划 月计划!!!!!!!"
+    post.puts "https://shimo.im/sheet/JBZ8slD2aC84NDjs/"
+    post.puts "https://shimo.im/sheet/PqRvuBFwabAGyzkL/"
     post.puts " "
     post.puts "\#\# IMPORTANT LIST"
     post.puts " "
