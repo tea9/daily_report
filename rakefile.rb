@@ -37,6 +37,8 @@ task :daily do
     post.puts "\#\# 打卡 打卡 打卡 月计划 月计划 月计划!!!!!!!"
     post.puts "https://shimo.im/sheet/JBZ8slD2aC84NDjs/"
     post.puts "https://shimo.im/sheet/PqRvuBFwabAGyzkL/"
+    post.puts "待办"
+    post.puts "https://shimo.im/docs/NakMX5EXb7wqSXIU/"
     post.puts " "
     post.puts "刷hackerone CTF web"
     post.puts "每天看hackerone 报告"
